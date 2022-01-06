@@ -1,0 +1,49 @@
+.info_box {
+    left: 0;
+    width: 200px;
+    height: 50%;
+    border: 1px solid;
+    position: fixed;
+    border-radius: 0 5px 5px 0;
+    padding-top: 50px;
+}
+
+.service_box {
+    width: 85%;
+    height: 70%;
+    border: 1px solid;
+    border-radius: 5px;
+    margin: 80px 0 0 250px;
+}
+
+.sending, .receiving {
+    margin-top: 10px;
+    border: none;
+    background: transparent;
+}
+
+.service_box {
+    text-align: center;
+}
+
+.index_line {
+    margin-left: 64px;
+}
+
+.index_line {
+    line-height: 80px;
+}
+
+.sending_box {
+    margin: 5%;
+}
+
+.sending_flex.input {
+    margin: 5px;
+    float: right;
+}
+
+.sending_flex.label {
+    margin: 5px;
+    float: left;
+}
